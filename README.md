@@ -1,4 +1,4 @@
-# statemanagement
+# CounterWithRiverpod
 
 A new Flutter project.
 
